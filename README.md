@@ -1,3 +1,7 @@
-skibidi
+# NINTENDO EMULATOR
 
-z releases je potřeba stáhnout oba soubory, pak jsou tu text guides... 
+1. Z releases stáhnout oba soubory
+
+2. Projít si text guides počínaje setupem
+
+3. Enjoy ;)
