@@ -9,3 +9,4 @@ You should now see the games listed in the Ryujinx Games List.
 # Games download link:
 
 https://switchrom.io/
+https://switchrom.net/
