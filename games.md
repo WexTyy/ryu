@@ -6,6 +6,6 @@ Click Add and select the folder containing your game files. Ryujinx will scan th
 
 You should now see the games listed in the Ryujinx Games List.
 
-# Download link:
+# Games download link:
 
 https://switchrom.io/
