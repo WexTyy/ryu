@@ -9,3 +9,5 @@ You should now see the games listed in the Ryujinx Games List.
 # Games download link:
 
 https://switchrom.net/
+
+(Stahují se NSP soubory a dávají se do adresáře her - nastavení)
