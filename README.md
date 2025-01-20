@@ -1,1 +1,3 @@
 skibidi
+
+z releases je potřeba stáhnout oba soubory, pak jsou tu text guides... 
